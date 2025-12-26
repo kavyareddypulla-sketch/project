@@ -163,6 +163,7 @@ shop.html
 </body>
 </html>
 # OUTPUT:
+
 <img width="900" height="429" alt="image" src="https://github.com/user-attachments/assets/3adc8445-a57d-43a2-8bd6-13df4f934ab3" />
 <img width="236" height="448" alt="image" src="https://github.com/user-attachments/assets/3fa283bc-916e-4c74-88a6-571b785b554e" />
 <img width="293" height="434" alt="image" src="https://github.com/user-attachments/assets/8181c927-4ad1-4d59-8d33-2051f887e104" />
