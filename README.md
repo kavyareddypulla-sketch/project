@@ -23,7 +23,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 # PROGRAM :
-pro.html
+```pro.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -117,7 +117,7 @@ shop.html
     <h2 class="mb-4">Featured Products</h2>
     <div class="row row-cols-1 row-cols-md-3 g-4">
       
-      
+     
       <div class="col">
         <div class="product-card text-center">
           <img src="pr4.jpg" class="product-image" alt="Product 1">
@@ -162,6 +162,7 @@ shop.html
   </div>
 </body>
 </html>
+```
 # OUTPUT
 
 
